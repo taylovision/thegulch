@@ -261,18 +261,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 \*------------------------------------*/
 
 .logo {
-    max-height: 50px;
-    display: block;
-}
-
-.logo {
-	display: none;
-}
-
-@media only screen and (max-width: 767px) {
-.logo {
-        display: block !important;
-    }
+	max-width: 100%;
+    max-height: 200px;
 }
 
 

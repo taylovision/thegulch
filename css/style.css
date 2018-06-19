@@ -559,12 +559,10 @@ header {
 
 #home .home-wrapper {
     position: absolute;
+	margin: 4em auto;
     left: 0px;
     right: 0px;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    top: 0;
     text-align: center;
 }
 

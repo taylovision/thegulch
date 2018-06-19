@@ -133,7 +133,10 @@ ul, ol {
     padding-top: 60px;
     padding-bottom: 60px;
 }
-
+.xs-padding {
+	padding-top: 25px;
+    padding-bottom: 25px;
+}
 
 /* --  background section  -- */
 
@@ -558,7 +561,7 @@ header {
 }
 
 #home .home-wrapper {
-    position: absolute;
+    position: relative;
 	margin: 4em auto;
     left: 0px;
     right: 0px;

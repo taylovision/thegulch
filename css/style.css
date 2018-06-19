@@ -160,7 +160,7 @@ ul, ol {
     right: 0;
     bottom: 0;
     z-index: -1;
-	background: url(img/OfficeShot_Masterplan_19Stories+Corner-web-ready.jpg) center center / cover no-repeat fixed;
+	background: url(../img/OfficeShot_Masterplan_19Stories+Corner-web-ready.jpg) center center / cover no-repeat fixed;
 }
 
 .bg-img .overlay {

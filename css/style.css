@@ -1454,8 +1454,8 @@ header {
   height: 50px;
   line-height: 50px;
   text-align: center;
-  border-radius: 3px;
-  background-color: #6195FF;
+  border-radius: 25px;
+  background-color: #000;
   color:#FFF;
 }
 

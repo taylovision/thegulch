@@ -160,9 +160,7 @@ ul, ol {
     right: 0;
     bottom: 0;
     z-index: -1;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
+	background: url(img/OfficeShot_Masterplan_19Stories+Corner-web-ready.jpg) center center / cover no-repeat fixed;
 }
 
 .bg-img .overlay {
@@ -171,8 +169,8 @@ ul, ol {
     top: 0;
     right: 0;
     bottom: 0;
-    opacity: .8;
-    background: #1C1D21;
+    opacity: .15;
+    background: #224e5f;
 }
 
 

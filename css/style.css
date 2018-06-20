@@ -222,7 +222,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     display: inline-block;
     padding: 10px 35px;
     margin: 3px;
-    border: 2px solid transparent;
+    border: 2px solid #FFF;
     border-radius: 3px;
     -webkit-transition: 0.2s opacity;
     transition: 0.2s opacity;
@@ -234,8 +234,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .white-btn {
-    background: #FFF;
-    color: #10161A !important;
+    background: transparent;
+    color: #FFF !important;
 }
 
 .outline-btn {
@@ -1446,6 +1446,23 @@ header {
   text-align: center;
   border-radius: 25px;
   background-color: #000;
+  color:#FFF;
+}
+
+.footer-list {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer-list li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 13px;
+}
+
+.footer-list li a {
+  display: inline-block;
+  text-align: center;
   color:#FFF;
 }
 
